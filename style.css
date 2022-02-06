@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    box-sizing: border-box;
+    }
+
+    .boxqa {
+        background-color: white;
+        padding-top: 30px;
+        padding: 30px;
+    }
+
+#timer {
+    text-align: right;
+    color:blueviolet;
+    position:fixed;
+    background-color: black;
+    background-position-x: right;
+    right: 600px;
+    flex-wrap: nowrap;
+
+
+}
+
+.quizquestions {
+    text-align: center;
+    font: 20px Arial bolder;   
+}
+
+
+button {
+    background-color: purple;
+    font-size: 50px;
+}
+
+#question {
+    display: none;
+}
+
+#end-game {
+    display: none;
+}
+
+
+
